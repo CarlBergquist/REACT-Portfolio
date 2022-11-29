@@ -5,7 +5,7 @@ import '../styles/footer.css'
 
 function Footer() {
     return (
-        <div className="container">
+        <div className="">
             <div className="row ">
                 <div id="test" >
                     <footer className="m-auto border-top border-dark p-3">

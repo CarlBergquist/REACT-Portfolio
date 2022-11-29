@@ -57,7 +57,7 @@ export default function Form() {
             <form >
                 <h4>Name:</h4>
                 <input
-                className="form-control-lg"
+                    className="form-control-lg"
                     value={name}
                     name="name"
                     onChange={handleInputChange}
@@ -66,7 +66,7 @@ export default function Form() {
                 />
                 <h4>Email:</h4>
                 <input
-                className="form-control-lg"
+                    className="form-control-lg"
                     value={email}
                     name="email"
                     onChange={handleInputChange}
@@ -74,16 +74,18 @@ export default function Form() {
                     placeholder="Email"
                 />
                 <h4>Message:</h4>
-                <input
-                    className="form-control"
-                    style={styles.bigbox}
+
+                <div className="input-group">
+                    <div className="input-group-prepend">
+
+                    </div>
+                    <textarea className="form-control" style={styles.bigbox}
                     value={message}
                     name="message"
                     onChange={handleInputChange}
                     type="message"
-                    placeholder="message"
-
-                />
+                    placeholder="message"></textarea>
+                </div>
                 <br></br>
                 <button type="button" className="btn btn-dark text-primary" onClick={handleFormSubmit}>
                     Submit
