@@ -18,3 +18,8 @@ Follow the link below to access my portfolio, there you will see my deployed rea
 
 ## Screenshot
 
+![alt text](./screenshot.png "Screenshot of deployed Portfolio")
+
+## Link to Portfolio
+
+https://carlbergquist.github.io/REACT-Portfolio/
