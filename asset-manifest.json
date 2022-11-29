@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/REACT-Portfolio/static/css/main.642b81f0.css",
+    "main.js": "/REACT-Portfolio/static/js/main.cae9f991.js",
+    "static/js/787.016dd43c.chunk.js": "/REACT-Portfolio/static/js/787.016dd43c.chunk.js",
+    "static/media/Carl_Bergquist_Resume_2.pdf": "/REACT-Portfolio/static/media/Carl_Bergquist_Resume_2.24b1d15f5b9adeea7cfa.pdf",
+    "static/media/me.jpeg": "/REACT-Portfolio/static/media/me.ce757becc5dc92a924c5.jpeg",
+    "index.html": "/REACT-Portfolio/index.html",
+    "main.642b81f0.css.map": "/REACT-Portfolio/static/css/main.642b81f0.css.map",
+    "main.cae9f991.js.map": "/REACT-Portfolio/static/js/main.cae9f991.js.map",
+    "787.016dd43c.chunk.js.map": "/REACT-Portfolio/static/js/787.016dd43c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642b81f0.css",
+    "static/js/main.cae9f991.js"
+  ]
+}
