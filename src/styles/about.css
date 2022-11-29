@@ -1,0 +1,10 @@
+#avatar {
+    height: 30vh;
+    width:auto;
+}
+
+.border1 {
+    margin: auto;
+    border: black 1px solid;
+    border-radius: 10px;
+}
